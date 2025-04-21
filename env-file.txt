@@ -1,0 +1,11 @@
+# MongoDB Atlas Connection String
+MONGODB_URI=mongodb+srv://username:password@cluster0.mongodb.net/solana_payments?retryWrites=true&w=majority
+
+# Solana RPC URL (Change for mainnet/devnet as needed)
+SOLANA_RPC_URL=https://api.mainnet-beta.solana.com
+
+# Admin API Key for merchant registration
+ADMIN_API_KEY=your_secure_admin_key_here
+
+# Server Port
+PORT=8000
